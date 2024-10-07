@@ -1,6 +1,7 @@
 [
     {
         "nombre":"Amazonas",
+        "codigo":"91",
         "superficie":{
             "dpto_narea":109497.05378800000,
             "shape_leng":25.35597737190,
@@ -9,6 +10,7 @@
         },
     {
         "nombre":"Antioquia",
+        "codigo":"05",
         "superficie":{
             "dpto_narea":62807.00437670000,
             "shape_leng":21.49279743280,
@@ -17,6 +19,7 @@
     },
     {
         "nombre":"Arauca",
+        "codigo":"81",
         "superficie":{
             "dpto_narea":23851.25705860000,
             "shape_leng":9.12458555186,
@@ -25,6 +28,7 @@
     },
     {
         "nombre":"Archipiélago de San Andrés, Providencia y Santa Catalina",
+        "codigo":"88",
         "superficie":{
             "dpto_narea":49.41769282110,
             "shape_leng":0.68336186825,
@@ -33,6 +37,7 @@
     },
     {
         "nombre":"Atlántico",
+        "codigo":"08",
         "superficie":{
             "dpto_narea":3314.45839315000,
             "shape_leng":2.57160117315,
@@ -41,6 +46,7 @@
     },
     {
         "nombre":"BOGOTÁ, D. C.",
+        "codigo":"11",
         "superficie":{
             "dpto_narea":1622.85297960000,
             "shape_leng":3.76537101301,
@@ -49,6 +55,7 @@
     },
     {
         "nombre":"Bolívar",
+        "codigo":"13",
         "superficie":{
             "dpto_narea":26720.32860390000,
             "shape_leng":16.27343044520,
@@ -57,6 +64,7 @@
     },
     {
         "nombre":"Boyaca",
+        "codigo":"15",
         "superficie":{
             "dpto_narea":23137.99763720000,
             "shape_leng":15.90676657700,
@@ -65,6 +73,7 @@
     },
     {
         "nombre":"Caldas",
+        "codigo":"17",
         "superficie":{
             "dpto_narea":7425.22016079000,
             "shape_leng":6.66450211841,
@@ -73,6 +82,7 @@
     },
     {
         "nombre":"Caquetá",
+        "codigo":"18",
         "superficie":{
             "dpto_narea":92831.28259560000,
             "shape_leng":21.21863953050,
@@ -81,6 +91,7 @@
     },
     {
         "nombre":"Casanare",
+        "codigo":"85",
         "superficie":{
             "dpto_narea":44394.23585130000,
             "shape_leng":12.13276294260,
@@ -89,6 +100,7 @@
     },
     {
         "nombre":"Cauca",
+        "codigo":"19",
         "superficie":{
             "dpto_narea":31242.86711590000,
             "shape_leng":13.95311351670,
@@ -97,6 +109,7 @@
     },
     {
         "nombre":"Cesar",
+        "codigo":"20",
         "superficie":{
             "dpto_narea":22565.31140340000,
             "shape_leng":12.57225236850,
@@ -105,6 +118,7 @@
     },
     {
         "nombre":"Chocó",
+        "codigo":"27",
         "superficie":{
             "dpto_narea":48354.82562090000,
             "shape_leng":20.63145659580,
@@ -113,6 +127,7 @@
     },
     {
         "nombre":"Córdoba",
+        "codigo":"23",
         "superficie":{
             "dpto_narea":25086.28252140000,
             "shape_leng":9.71124758822,
@@ -121,6 +136,7 @@
     },
     {
         "nombre":"Cundinamarca",
+        "codigo":"25",
         "superficie":{
             "dpto_narea":22370.45718910000,
             "shape_leng":13.12425235520,
@@ -129,6 +145,7 @@
     },
     {
         "nombre":"Guainía",
+        "codigo":"94",
         "superficie":{
             "dpto_narea":71289.35468249999,
             "shape_leng":21.17905066980,
@@ -137,6 +154,7 @@
     },
     {
         "nombre":"Guaviare",
+        "codigo":"95",
         "superficie":{
             "dpto_narea":55543.86751220000,
             "shape_leng":19.39410266730,
@@ -145,6 +163,7 @@
     },
     {
         "nombre":"Huila",
+        "codigo":"41",
         "superficie":{
             "dpto_narea":18141.66054850000,
             "shape_leng":19.39410266730,
@@ -153,6 +172,7 @@
     },
     {
         "nombre":"La Guajira",
+        "codigo":"44",
         "superficie":{
             "dpto_narea":20620.23902340000,
             "shape_leng":10.79260109300,
@@ -161,6 +181,7 @@
     },
     {
         "nombre":"Magdalena",
+        "codigo":"47",
         "superficie":{
             "dpto_narea":23135.94075660000,
             "shape_leng":10.81376853220,
@@ -169,6 +190,7 @@
     },
     {
         "nombre":"Meta",
+        "codigo":"50",
         "superficie":{
             "dpto_narea":82830.38390420000,
             "shape_leng":18.19459327840,
@@ -177,6 +199,7 @@
     },
     {
         "nombre":"Nariño",
+        "codigo":"52",
         "superficie":{
             "dpto_narea":31497.03350990000,
             "shape_leng":12.83950810190,
@@ -185,6 +208,7 @@
     },
     {
         "nombre":"Norte de Santander",
+        "codigo":"54",
         "superficie":{
             "dpto_narea":21856.75427680000,
             "shape_leng":10.70381123570,
@@ -193,6 +217,7 @@
     },
     {
         "nombre":"Putumayo",
+        "codigo":"86",
         "superficie":{
             "dpto_narea":25976.28310540000,
             "shape_leng":12.70792246060,
@@ -201,6 +226,7 @@
     },
     {
         "nombre":"Quindío",
+        "codigo":"63",
         "superficie":{
             "dpto_narea":1933.57084668000,
             "shape_leng":2.55482544690,
@@ -209,6 +235,7 @@
     },
     {
         "nombre":"Risaralda",
+        "codigo":"66",
         "superficie":{
             "dpto_narea":3556.75006367000,
             "shape_leng":4.85153003237,
@@ -217,6 +244,7 @@
     },
     {
         "nombre":"Santander",
+        "codigo":"68",
         "superficie":{
             "dpto_narea":30561.56544800000,
             "shape_leng":11.87802211340,
@@ -225,6 +253,7 @@
     },
     {
         "nombre":"Sucre",
+        "codigo":"70",
         "superficie":{
             "dpto_narea":10591.80021830000,
             "shape_leng":8.55910984351,
@@ -233,6 +262,7 @@
     },
     {
         "nombre":"Tolima",
+        "codigo":"73",
         "superficie":{
             "dpto_narea":24139.43240200000,
             "shape_leng":9.55010974311,
@@ -241,6 +271,7 @@
     },
     {
         "nombre":"Valle del Cauca",
+        "codigo":"76",
         "superficie":{
             "dpto_narea":20665.58132400000,
             "shape_leng":12.65682288410,
@@ -249,6 +280,7 @@
     },
     {
         "nombre":"Vaupés",
+        "codigo":"97",
         "superficie":{
             "dpto_narea":53299.28001490000,
             "shape_leng":20.12983374400,
@@ -257,6 +289,7 @@
     },
     {
         "nombre":"Vichada",
+        "codigo":"99",
         "superficie":{
             "dpto_narea":100063.37059500000,
             "shape_leng":17.29261301320,
